@@ -6,3 +6,5 @@ Dataset background: Over the past decade, bicycle-sharing systems have been grow
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
 I chose to employ python to connect, clean, and access the data and then created interactive visuals using Tableau. For added practice I decided to explore the data with SQL in a jupyter notebook.
+
+The CSV files are a bit large so I have stored them in zip file.
